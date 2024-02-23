@@ -1,0 +1,37 @@
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\refint\AutomobileLibrary.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\refint\AutomobileLibrary.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.sourcelink.json
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\refint\AutomobileLibrary.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll

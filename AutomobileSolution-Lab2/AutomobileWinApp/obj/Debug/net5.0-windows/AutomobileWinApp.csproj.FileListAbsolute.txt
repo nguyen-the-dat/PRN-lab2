@@ -1,0 +1,142 @@
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\appsetting.json
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.pdb
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\refint\AutomobileWinApp.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+D:\Workspace\FU_Spring24\PRN211\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\appsetting.json
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.pdb
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\refint\AutomobileWinApp.dll
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+D:\prn211\xinchao1\PT1_PRN211-main\PT1_PRN211\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\appsetting.json
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.pdb
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.sourcelink.json
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\refint\AutomobileWinApp.dll
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+D:\DOCUMENTS FOR FPT\Kì 5\C#\SE1752_HE172038_PT2\AutomobileSolution-Lab2\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll

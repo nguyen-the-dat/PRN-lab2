@@ -1,0 +1,6 @@
+{
+  "ConStrings": {
+    "Default": "server=(local);database=MyStock;user=sa;password=123"
+  }
+}
+
